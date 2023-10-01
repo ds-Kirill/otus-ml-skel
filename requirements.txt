@@ -13,3 +13,4 @@ requests
 starlette-exporter
 mlflow
 boto3
+httpx
